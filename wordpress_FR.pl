@@ -1,7 +1,7 @@
 # script_wordpress_desc()
 sub script_wordpress_desc
 {
-return "WordPress";
+return "WordPress FR";
 }
 
 sub script_wordpress_uses
