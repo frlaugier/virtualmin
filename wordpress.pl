@@ -147,7 +147,7 @@ sub script_wordpress_files
 local ($d, $ver, $opts, $upgrade) = @_;
 local @files = ( { 'name' => "source",
 	   'file' => "wordpress-$ver.zip",
-	   'url' => "http://wordpress.org/latest.zip",
+	   'url' => "https://fr.wordpress.org/latest-fr_FR.zip",
 	   'virtualmin' => 1,
 	   'nocache' => 1 } );
 return @files;
