@@ -268,3 +268,4 @@ sub script_wordpress_passmode
 {
 	return 1;
 }
+1;
